@@ -1,1 +1,13 @@
 /* p要素に適用するスタイル */
+p {
+  display: inline-block; /* p要素をインラインブロック要素に設定 */
+  color: white; /* 文字色を白に設定 */
+  background-color: #00008B; /* 背景色をダークブルーに設定 */
+  width: 160px; /* 幅を160ピクセルに設定 */
+  text-align: center; /* テキストを中央揃えに設定 */
+  padding: 10px 0; /* 上下の余白を10ピクセル、左右の余白を0ピクセルに設定 */
+  margin-right: 20px ; /* 右側の余白を20ピクセルに設定 */
+  border-top: 5px dotted yellow; /* 黄色の5ピクセルの点線に設定 */
+  border-right: 10px ridge yellow; /* 黄色の10ピクセルの隆起線に設定 */
+  border-bottom: 10px ridge red; /* 赤色の10ピクセルの隆起線に設定 */
+  border-left: 5px solid yellow; /* 黄色の5ピクセルの点線に設定 */
