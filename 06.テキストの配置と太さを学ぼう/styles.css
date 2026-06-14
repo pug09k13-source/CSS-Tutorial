@@ -1,5 +1,24 @@
 /* h1要素に適用するスタイル */
-
+h1 {
+  color: white; /* 文字色を白に設定 */
+  font-size: 32px; /* フォントサイズを32ピクセルに設定 */
+  background-color: midnightblue; /* 背景色を紺色に設定 */
+  text-align: center; /* テキストを中央揃えに設定 */
+}
 /* h3要素に適用するスタイル */
+div {
+  height: 50px; /* 高さを50ピクセルに設定 */
+}
 
+h3 {
+  color: white; /* 文字色を白に設定 */
+  background-color: deepskyblue; /* 背景色を水色に設定 */
+  text-align: center; /* テキストを中央揃えに設定 */
+  line-height: 50px; /* 行の高さを50ピクセルに設定 */
+}
 /* p要素に適用するスタイル */
+p {
+  color: white; /* 文字色を白に設定 */
+  background-color: #3776AB; /* 背景色をスチールブルーに設定 */
+  text-align: center; /* テキストを中央揃えに設定 */
+}
